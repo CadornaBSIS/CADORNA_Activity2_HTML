@@ -12,7 +12,7 @@
 ## III. Description of HTML elements and tags I utilized in this portfolio.
 
 ### Home Page
--"Heading" I used this to create a title.
+- "Heading" I used this to create a title.
 - "Paragraphs", "img", I used paragraph to center my image and making my first page more engaging.
 - "Header", "Paragraphs", "a", I used the header to create welcome message while I used paragraph to center the hyperlink of the pages in my portfolio.
 - "main", " "Paragraphs" for the main I used the paragraph to put some description for my portfolio.
